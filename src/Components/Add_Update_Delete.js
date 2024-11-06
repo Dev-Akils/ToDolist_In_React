@@ -69,7 +69,7 @@ function Add_Update_Delete() {
 
   console.log(items);
   return (
-    <div className="bg-[#A8B79A] w-full h-full flex justify-center items-center py-8">
+    <div className="bg-[#A8B79A] w-full h-auto flex justify-center items-center py-8">
   <div className="p-5 mx-5 md:mx-10 md:p-10 text-center w-full max-w-3xl">
     <div>
       <h2 className="font-bold text-2xl mb-4">MY TODO APP</h2>
